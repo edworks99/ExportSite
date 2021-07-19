@@ -1,0 +1,122 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="downtownpublichous.com" resolutions="1x" timestamp="1626709401148">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="about.css" crc="4046813212" ref="about"/>
+    <file name="nomq_about.css" crc="4116464052" ref="about"/>
+    <file name="location.css" crc="99854540" ref="location"/>
+    <file name="nomq_location.css" crc="188613483" ref="location"/>
+    <file name="index.css" crc="3859243957" ref="index"/>
+    <file name="nomq_index.css" crc="522518288" ref="index"/>
+    <file name="contact.css" crc="511001299" ref="contact"/>
+    <file name="nomq_contact.css" crc="4263029171" ref="contact"/>
+  </folder>
+  <folder name="assets">
+    <file name="dph.tif" crc="442999228" seo="true" mt="1626698035000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:contact:location"/>
+    <file name="museutils.js" crc="340535759" ref="index:about:contact:location"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:contact:location"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:about:contact:location"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:about:contact:location"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:about:contact:location"/>
+    <file name="require.js" crc="7928878" ref="index:about:contact:location"/>
+  </folder>
+  <folder name="images">
+    <file name="096a0080 copy.jpg" crc="359237868" seo="true" ref="index:about:contact:location">
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="location" alt=""/>
+    </file>
+    <file name="dphsmall.png" crc="171950645" seo="true" ref="index:about:contact:location">
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="location" alt=""/>
+    </file>
+    <file name="u370-21.png" crc="124376671" ref="index"/>
+    <file name="096a0066 copy.jpg" crc="4288953766" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="096a0070 copy.jpg" crc="4105543171" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="about.png" crc="4066987932" seo="true" ref="index:contact:location">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="location" alt=""/>
+      <caption webpage="location" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="contact.png" crc="69557566" seo="true" ref="index:about:location">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="location" alt=""/>
+      <caption webpage="location" alt=""/>
+    </file>
+    <file name="location.png" crc="4028399880" seo="true" ref="index:about:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="096a0080 copy960x410.jpg" crc="123970915" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dphsmall325x326.png" crc="3789140608" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="096a0070 copy497x320.jpg" crc="268395814" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="096a0066 copy480x321.jpg" crc="219848327" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u370-212.png" crc="449368221" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:about:contact:location"/>
+    <file name="096a0074 copy.jpg" crc="3969364719" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="096a0078 copy.jpg" crc="3831186367" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="home.png" crc="224840767" seo="true" ref="about:contact:location">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="location" alt=""/>
+      <caption webpage="location" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="096a0074 copy481x321.jpg" crc="3958421960" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="096a0078 copy481x321.jpg" crc="55786705" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="096a0068 copy.jpg" crc="406373108" seo="true" ref="contact:location">
+      <caption webpage="location" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="096a0076 copy.jpg" crc="3804157176" seo="true" ref="contact:location">
+      <caption webpage="location" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="096a0068 copy480x320.jpg" crc="454522639" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="096a0076 copy481x321.jpg" crc="421317663" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="263849204" seo="true" mt="1626708785700" redirect="true"/>
+  <file name="about.html" crc="292859595" seo="true" mt="1626708722499" redirect="true"/>
+  <file name="contact.html" crc="250588019" seo="true" mt="1626708648350" redirect="true"/>
+  <file name="location.html" crc="117234983" seo="true" mt="1626708480621" redirect="true"/>
+</manifest>
